@@ -15,9 +15,9 @@
     <artifactId>Robot-Parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-     
+        <module>Robot-Cloud-Jpa</module>
+        <module>Robot-Cloud-Mybatis</module>
     </modules>
-
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

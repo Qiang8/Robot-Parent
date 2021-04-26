@@ -1,4 +1,4 @@
-package com.robot.jap.jpa;
+package com.robot.jap;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
